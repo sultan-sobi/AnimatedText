@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    font-family: cursive;
+    background-color: rgb(9, 224, 153);
+}
+
+.container{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
